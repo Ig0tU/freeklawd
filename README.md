@@ -1,5 +1,8 @@
 # Claude 中文版 - 无需翻墙使用 Claude 4 Sonnet
 
+> 2025年6月1日最新的 Claude 中文版体验，无需翻墙，免费使用，即刻体验 AI 对话
+
+
 ## 🌟 关于 Claude 中文版镜像站
 
 **Claude 中文版**是 Anthropic 公司开发的 Claude AI 助手的中文优化版本。相比官方版本，我们的镜像站点为中国用户提供了更加便捷的使用体验：
@@ -14,7 +17,6 @@
 🔗 **立即体验**: [aibox365.com](https://chat.aibox365.cn)
 
 
-> 2025年最新的 Claude 中文版体验，无需翻墙，无需注册，即刻体验 AI 对话
 
 ## 🏆 推荐 Claude 中文版入口
 
