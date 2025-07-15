@@ -1,109 +1,128 @@
-# Claude 中文版 - 无需翻墙使用 Claude 4 Sonnet
+Claude - No VPN Required to Use Claude 4 Sonnet
+Latest experience of Claude as of 2025-07-15, no VPN required, free to use, experience AI conversation immediately.
 
-> 2025-07-15最新的 Claude 中文版体验，无需翻墙，免费使用，即刻体验 AI 对话
+🌟 About the Claude Mirror Site
+Claude is a Chinese-optimized version of the Claude AI assistant developed by Anthropic. Compared to the official version, our mirror site provides a more convenient user experience for users in China:
 
+Direct Access: No VPN required, instant access
+Chinese Optimization: Deeply optimized for the Chinese context, providing more natural and fluent responses
+Powerful Features: Supports the latest Claude 4 Sonnet, Claude 3.5, and other advanced models
+Easy to Use: Scan to use, say goodbye to complicated registration
+🔗 Experience Now: chat.aibox365.cn
 
-## 🌟 关于 Claude 中文版镜像站
+🔗 Experience Now: aibox365.com
 
-**Claude 中文版**是 Anthropic 公司开发的 Claude AI 助手的中文优化版本。相比官方版本，我们的镜像站点为中国用户提供了更加便捷的使用体验：
+🏆 Recommended Entry for Claude
+Main Site
+chat.aibox365.cn - Our official Claude mirror site, supports Claude 4 Sonnet, Claude 3.5, GPT-4o, GPT-o1, GPT-o3, DeepSeek, Gemini 2.5, and other top models, unlimited free use.
 
-- **国内直连**：无需翻墙，秒速访问
-- **中文优化**：针对中文语境深度优化，回答更自然流畅
-- **强大功能**：支持最新的 **Claude 4 Sonnet**、**Claude 3.5** 及其他先进模型
-- **简单使用**：扫码即用，告别繁琐注册
+💪 Powerful Features of AiBox365 Mirror Site
+🔮 Integration of Top Global Models
+Supports the latest and most powerful models including Claude 4 Sonnet, GPT-4o, GPT-o1, GPT-o3, DeepSeek, Gemini 2.5.
 
-🔗 **立即体验**: [chat.aibox365.cn](https://chat.aibox365.cn)
+🎨 AI Art Creation
+Integrates Midjourney and GPT-4o text-to-image capabilities, generating beautiful images with just a prompt.
 
-🔗 **立即体验**: [aibox365.com](https://chat.aibox365.cn)
+📊 AI PPT Generation
+One-click generation of professional presentation slides, saving time and improving efficiency, eliminating tedious formatting.
 
+💬 Multi-Model Discussion
+Innovative "@model" feature allows different AI models to discuss the same question, generating more comprehensive ideas.
 
+Multi-Model Discussion Feature is our unique innovation. Simply use @ different models when asking questions (e.g., @Claude4 @GPT4o), and multiple AI models will join the conversation, answering your questions from different perspectives to help you gain more comprehensive insights.
 
-## 🏆 推荐 Claude 中文版入口
+AI Art Feature supports Midjourney and GPT-4o text-to-image, requiring no complex operations. Just describe the image you want in the chat box, and the AI will create beautiful visual content for you.
 
-### 主推站点
-**[chat.aibox365.cn](https://chat.aibox365.cn)** - 我们的官方 Claude 中文镜像站，支持 Claude 4 Sonnet、Claude 3.5、GPT-4o、GPT-o1、GPT-o3、DeepSeek、Gemini 2.5 等顶级模型，无限免费使用
+AI PPT Feature allows you to input the topic and key content, and the system will automatically generate a professional presentation, including a reasonable structure, beautiful formatting, and appropriate visual elements, significantly improving work efficiency.
 
-## 💪 AiBox365 镜像站强大特性
+🚀 Why Choose Our Claude?
+🚀 Lightning Fast Experience
+Domestic server deployment, response speed is lightning fast, no waiting.
 
-### 🔮 全球顶尖模型集成
-支持 Claude 4 Sonnet、GPT-4o、GPT-o1、GPT-o3、DeepSeek、Gemini 2.5 等最新最强大模型
+🧠 Intelligent Conversation
+Equipped with the latest Claude 4 Sonnet model, unparalleled understanding and creativity.
 
-### 🎨 AI 绘画创作
-集成 Midjourney 和 GPT-4o 文生图功能，一句提示词即可生成精美图像
+🇨🇳 Chinese Optimization
+Designed specifically for Chinese users, understanding context more accurately, and responses more aligned with local needs.
 
-### 📊 AI PPT 生成
-一键生成专业演示幻灯片，省时高效，告别繁琐排版
+🛠️ All-in-One Assistant
+Writing, programming, translation, data analysis, creative brainstorming, all in one solution.
 
-### 💬 多模型讨论
-创新的"@模型"功能，让不同AI模型对同一问题进行讨论，碰撞出更全面的思路
+📊 Comparison Between Claude Official Site and Our Mirror Site
+Comparison Item
 
-**多模型讨论功能**是我们的独特创新，只需在提问时@不同模型（例如：@Claude4 @GPT4o），多个AI模型就会接入对话，从不同角度回答您的问题，帮助您获得更全面的见解。
+Claude Official Site
 
-**AI绘画功能**支持Midjourney和GPT-4o文生图，无需复杂操作，直接在对话框中描述您想要的图像，AI即可为您创作精美视觉内容。
+Our Mirror Site
 
-**AI PPT功能**让您只需输入主题和关键内容，系统自动生成专业演示文稿，包含合理的结构、精美的排版和适当的视觉元素，大幅提升工作效率。
+Access Method
 
-## 🚀 为什么选择我们的 Claude 中文版？
+Requires VPN, high latency
 
-### 🚀 极速体验
-国内服务器部署，响应速度快如闪电，无需等待
+Direct access, instant experience
 
-### 🧠 智能对话
-搭载最新 Claude 4 Sonnet 模型，理解能力和创造力无与伦比
+Registration Use
 
-### 🇨🇳 中文优化
-专为中文用户打造，理解语境更准确，回答更贴合本地需求
+Requires overseas phone number
 
-### 🛠️ 全能助手
-写作、编程、翻译、数据分析、创意构思，一站解决
+Scan to use, no barriers
 
-## 📊 Claude 官网与我们镜像站的对比
+Language Support
 
-| 对比项 | Claude 官网 | 我们的镜像站 |
-|--------|------------|------------|
-| 访问方式 | 需翻墙，延迟高 | 国内直连，秒开体验 |
-| 注册使用 | 需海外手机号 | 扫码即用，0门槛 |
-| 语言支持 | 多语言（中文支持一般） | 中文深度优化 |
-| 模型支持 | 仅 Claude 3.5、4 | Claude 4、GPT-4o、GPT-o1、GPT-o3、DeepSeek、Gemini 2.5 等 |
-| 使用限制 | 有使用次数限制 | 无限制使用 |
-| 功能扩展 | 基础对话功能 | 多模型讨论、AI绘画、AI PPT等增强功能 |
+Multi-language (limited Chinese support)
 
-## ❓ 常见问题解答 (FAQ)
+Deeply optimized for Chinese
 
-### 使用镜像站是否需要翻墙？
-不需要，我们的镜像站专为国内用户设计，可直接访问，无需任何代理工具。
+Model Support
 
-### 镜像站的稳定性如何？
-我们采用高性能服务器和CDN加速，保证99.9%的在线率和极速响应体验。
+Only Claude 3.5, 4
 
-### 如何使用多模型讨论功能？
-只需在提问时使用@符号，如"@Claude4 @GPT4o 请分析这个问题..."，两个模型就会同时参与讨论。
+Claude 4, GPT-4o, GPT-o1, GPT-o3, DeepSeek, Gemini 2.5, etc.
 
-### AI绘图功能如何使用？
-选择Midjourney或GPT-4o绘图模式，输入详细的图像描述，系统会根据您的描述生成相应图像。
+Usage Limit
 
-### 镜像站是否收费？
-基础功能完全免费，部分高级功能可能需要适量付费，性价比远高于直接使用官方版本。
+Limited usage times
 
-### 使用镜像站是否安全？
-我们采用全程加密传输，不存储敏感对话内容，保障用户隐私安全。
+Unlimited usage
 
-## 💼 用户使用场景
+Function Expansion
 
-### ✍️ 内容创作
-撰写文章、生成创意、编写脚本，激发灵感
+Basic conversation features
 
-### 💻 编程开发
-代码分析、Bug修复、算法优化、技术学习
+Enhanced features like multi-model discussion, AI art, AI PPT, etc.
 
-### 📚 学习辅助
-知识解答、论文指导、学科辅导、考试准备
+❓ Frequently Asked Questions (FAQ)
+Do I need a VPN to use the mirror site?
+No, our mirror site is designed for domestic users and can be accessed directly without any proxy tools.
 
-### 🏢 职场助手
-邮件起草、AI PPT制作、数据分析、会议总结
+How stable is the mirror site?
+We use high-performance servers and CDN acceleration to ensure a 99.9% online rate and lightning-fast response experience.
 
----
+How do I use the multi-model discussion feature?
+Simply use the @ symbol when asking questions, such as "@Claude4 @GPT4o please analyze this question...", and both models will participate in the discussion simultaneously.
 
-© 2025 Claude 中文版 - 为中国用户打造的AI智能助手
+How do I use the AI drawing feature?
+Choose the Midjourney or GPT-4o drawing mode, input a detailed image description, and the system will generate the corresponding image based on your description.
 
-联系我们: [contact@aibox365.cn](mailto:contact@aibox365.cn)
+Is the mirror site charged?
+Basic features are completely free, while some advanced features may require a small fee, offering better value than using the official version directly.
+
+Is it safe to use the mirror site?
+We use end-to-end encrypted transmission and do not store sensitive conversation content, ensuring user privacy and security.
+
+💼 User Scenarios
+✍️ Content Creation
+Writing articles, generating ideas, scripting, inspiring creativity.
+
+💻 Programming Development
+Code analysis, bug fixing, algorithm optimization, technical learning.
+
+📚 Learning Assistance
+Knowledge answering, thesis guidance, subject tutoring, exam preparation.
+
+🏢 Workplace Assistant
+Drafting emails, creating AI PPTs, data analysis, meeting summaries.
+
+© 2025 Claude - AI intelligent assistant designed for users in China
+
+Contact: contact@aibox365.cn
